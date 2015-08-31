@@ -17,13 +17,13 @@ A photo of the final car:
 
 You can find more photos [on Flickr](https://www.flickr.com/photos/rinoshea/albums/72157651516510906).
 
-### [Stage 1: Speed Control](https://github.com/ryanoshea/car-lab/blob/master/Stage%201%20Report%20-%20Speed%20Control.pdf)
+### Stage 1: Speed Control
 
 We designed and built the circuitry to make the car travel straight at 3 ft/sec to within 2% accuracy on flat ground and 10% accuracy on an incline and decline.
 
 *Note: Details of our implementation for this stage of the course have been left out of this page and repository, so as not to provide possible solutions to students taking the course in the future.* 
 
-### [Stage 2: Line Following](https://github.com/ryanoshea/car-lab/blob/master/Stage%202%20Report%20-%20Path%20Following.pdf) 
+### Stage 2: Line Following
 
 We attached a VGA camera on a laser-etched acrylic mast, aimed at the floor. Using it, we tracked a black line on a light floor and controlled the car's steering to cause it to follow the line around a track. The car with the mast, camera, and relevant circuitry is shown below:
 
